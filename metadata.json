@@ -1,0 +1,6 @@
+{
+  "name": "房屋稅率地圖~可愛稅務大冒險",
+  "description": "與暗光鳥探險家 (Night Owl Explorer)、鏟子超人、納保官和防疫尖兵一同探索可愛稅務地圖，挑戰互動稅務關卡、解鎖成就與排行榜！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
